@@ -8,4 +8,3 @@ Simple Delivery Driver Game made with Unity 2021.3
 - Goal: Picking up parcels and delivering them to a house. 
 Once a parcel is picked up, the color of the car switches to green, until the parcel is delivered.
 - Assets: boosters on the road that boost the speed of the car until the driver bumps against a rock, tree or house.
--
